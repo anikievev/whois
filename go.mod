@@ -1,4 +1,4 @@
-module github.com/twiny/whois/v2
+module github.com/anikievev/whois/v2
 
 go 1.17
 
